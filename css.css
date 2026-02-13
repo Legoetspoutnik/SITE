@@ -67,7 +67,7 @@ strong
     color: rgb(253, 255, 207);
     font-size: 1em;
 }
-.quatre{color:orange}
+.quatre{color:orange;display:flex;}
 
 
 /*button{
@@ -86,4 +86,5 @@ p, ul{font-size: 1em; color: rgb(15, 130, 253);}
 .ph{background-color: blue; color:black}
 .ns{background-color: yellow; color:black}
 form{background: linear-gradient(250deg, rgb(40, 107, 4), black);border:8px solid rgb(0, 168, 50); text-align: center;}
+
 
